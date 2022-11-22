@@ -1,4 +1,4 @@
-# Homework 3 - Getting to know your customers
+# Homework 4 - Getting to know your customers
 
 The purpose of this repository is to answer the assigned questions in the [Homework 4](https://github.com/lucamaiano/ADM/tree/master/2022/Homework_4) of the Algorithms for Data Mining course, 2022.
 
