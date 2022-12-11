@@ -4,4 +4,4 @@ The purpose of this repository is to answer the assigned questions in the [Homew
 
 1. `main.ipynb`: a Jupyter Notebook that answers the questions: 
 2. `CommandLine.sh`: The code used to provide the answers to the Commmand Line questions.
-3. ???: contains the files saved during the execution of the various points
+3. `Outputs`: contains the files saved during the execution of the various points
